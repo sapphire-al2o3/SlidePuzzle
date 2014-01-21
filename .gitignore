@@ -1,0 +1,6 @@
+/Temp
+/Library
+/WebPlayer
+*.csproj
+*.sln
+*.userprefs
